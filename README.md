@@ -27,6 +27,9 @@ Visualize an earthquake data set
 
   - I created a legend that provides context for my map data
 
+![Earthquake_Popup](https://user-images.githubusercontent.com/82673788/131376824-4ccd45b1-96b2-429a-b781-4ebc0596f872.PNG)
+
+![Earthquake_Legend](https://user-images.githubusercontent.com/82673788/131376856-1a1f5e5f-81ce-4177-ad46-98599b3dbd4e.PNG)
  
  _________________________________________________________________
  

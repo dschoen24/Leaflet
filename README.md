@@ -69,9 +69,9 @@ Tectonic Toggle Bar Image: ![Tectonic_Toggle_Only](https://user-images.githubuse
 
 Satellite Map: ![Earthquake_Satellite_Map](https://user-images.githubusercontent.com/82673788/131377623-c7e3bac5-4f76-43e9-a3dc-5d362211a38a.PNG)
 
-Outdoors Map: ![Earthquake_Grayscale_Map](https://user-images.githubusercontent.com/82673788/131377713-1c680db3-f62a-4632-a7d5-76a9eabd5011.PNG)
+Grayscale Map: ![Earthquake_Grayscale_Map](https://user-images.githubusercontent.com/82673788/131377713-1c680db3-f62a-4632-a7d5-76a9eabd5011.PNG)
 
-Grayscale Map: ![Earthquake_Dark_Map](https://user-images.githubusercontent.com/82673788/131377735-38754f2d-bf36-43aa-97e9-a04665839e13.PNG)
+Dark Map: ![Earthquake_Dark_Map](https://user-images.githubusercontent.com/82673788/131377735-38754f2d-bf36-43aa-97e9-a04665839e13.PNG)
 
-Dark Map: ![Earthquake_Outdoors_Map](https://user-images.githubusercontent.com/82673788/131377670-9beaf90f-7018-4250-abda-698d36735aea.PNG)
+Outdoors Map: ![Earthquake_Outdoors_Map](https://user-images.githubusercontent.com/82673788/131377670-9beaf90f-7018-4250-abda-698d36735aea.PNG)
 

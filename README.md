@@ -13,12 +13,15 @@ ____________________________________________________________
 
 You can deploy final visualization of the earthquake data by clickling this link: https://dschoen24.github.io/leaflet-challenge/
 
-All the below images displayed can also be found within the images folder in this repository.
+All the below images displayed can also be found within the images folder in this repository. https://github.com/dschoen24/leaflet-challenge/tree/main/images
 
 Final code used can be found here:
 
+https://github.com/dschoen24/leaflet-challenge/tree/main/static
 
+- Two folders: one for css and one for js
 
+https://github.com/dschoen24/leaflet-challenge/tree/main/index.html
 
 _________________________________________________________________
 

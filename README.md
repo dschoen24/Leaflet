@@ -1,5 +1,5 @@
 # leaflet-challenge
-Visualizing Data with Leaflet
+## Visualizing Earthquake Data with Leaflet
 
 _____________________________________________________________
 
@@ -45,10 +45,19 @@ I plotted a second data set on my map that illustrates the relationship between 
 
 4. Layer controls were added onto my map
 
-![Earthquake_Toggle_Bar](https://user-images.githubusercontent.com/82673788/131377180-b10db069-abe0-4498-98bd-fbdf4cedda30.PNG)
+Toggle Bar Image: ![Earthquake_Toggle_Bar](https://user-images.githubusercontent.com/82673788/131377180-b10db069-abe0-4498-98bd-fbdf4cedda30.PNG)
 
-![Earthquake_Toggle_Only](https://user-images.githubusercontent.com/82673788/131377194-96b396f2-a8cc-4d32-b6ca-27d440236584.PNG)
+Earthquake Toggle Bar Image: ![Earthquake_Toggle_Only](https://user-images.githubusercontent.com/82673788/131377194-96b396f2-a8cc-4d32-b6ca-27d440236584.PNG)
 
-![Tectonic_Toggle_Only](https://user-images.githubusercontent.com/82673788/131377213-4421061d-e090-4216-9a4e-b52e8d5a35bb.PNG)
+Tectonic Toggle Bar Image: ![Tectonic_Toggle_Only](https://user-images.githubusercontent.com/82673788/131377213-4421061d-e090-4216-9a4e-b52e8d5a35bb.PNG)
 
+## Final Map Images
+
+Satellite Map: ![Earthquake_Satellite_Map](https://user-images.githubusercontent.com/82673788/131377623-c7e3bac5-4f76-43e9-a3dc-5d362211a38a.PNG)
+
+Outdoors Map: ![Earthquake_Grayscale_Map](https://user-images.githubusercontent.com/82673788/131377713-1c680db3-f62a-4632-a7d5-76a9eabd5011.PNG)
+
+Grayscale Map: ![Earthquake_Dark_Map](https://user-images.githubusercontent.com/82673788/131377735-38754f2d-bf36-43aa-97e9-a04665839e13.PNG)
+
+Dark Map: ![Earthquake_Outdoors_Map](https://user-images.githubusercontent.com/82673788/131377670-9beaf90f-7018-4250-abda-698d36735aea.PNG)
 

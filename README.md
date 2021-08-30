@@ -11,6 +11,17 @@ My goal is to create some visualizations that will help with this objective.
 
 ____________________________________________________________
 
+You can deploy final visualization of the earthquake data by clickling this link: https://dschoen24.github.io/leaflet-challenge/
+
+All the below images displayed can also be found within the images folder in this repository.
+
+Final code used can be found here:
+
+
+
+
+_________________________________________________________________
+
 ## Task #1
 
 Visualize an earthquake data set

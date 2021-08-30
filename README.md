@@ -3,7 +3,7 @@ Visualizing Data with Leaflet
 
 _____________________________________________________________
 
-** Objective: **
+### Objective:
 
 The USGS (United States Geological Survey) is interested in building a new set of tools that will allow them to visualize their earthquake data.  They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it.  Their hope is that being able to visualize their data will allow them to better educate the public and other goverment organizations (and hopefully secure more funding) on issues facing our planet.
 
@@ -27,9 +27,9 @@ Visualize an earthquake data set
 
   - I created a legend that provides context for my map data
 
-![Earthquake_Popup](https://user-images.githubusercontent.com/82673788/131376824-4ccd45b1-96b2-429a-b781-4ebc0596f872.PNG)
+Popup Image:  ![Earthquake_Popup](https://user-images.githubusercontent.com/82673788/131376824-4ccd45b1-96b2-429a-b781-4ebc0596f872.PNG)
 
-![Earthquake_Legend](https://user-images.githubusercontent.com/82673788/131376856-1a1f5e5f-81ce-4177-ad46-98599b3dbd4e.PNG)
+Legend Image: ![Earthquake_Legend](https://user-images.githubusercontent.com/82673788/131376856-1a1f5e5f-81ce-4177-ad46-98599b3dbd4e.PNG)
  
  _________________________________________________________________
  
@@ -44,3 +44,11 @@ I plotted a second data set on my map that illustrates the relationship between 
 3. My two different data sets (earthquakes & tectonicplates) were seperated out into overlays on my map that can be turned on and off independently.
 
 4. Layer controls were added onto my map
+
+![Earthquake_Toggle_Bar](https://user-images.githubusercontent.com/82673788/131377180-b10db069-abe0-4498-98bd-fbdf4cedda30.PNG)
+
+![Earthquake_Toggle_Only](https://user-images.githubusercontent.com/82673788/131377194-96b396f2-a8cc-4d32-b6ca-27d440236584.PNG)
+
+![Tectonic_Toggle_Only](https://user-images.githubusercontent.com/82673788/131377213-4421061d-e090-4216-9a4e-b52e8d5a35bb.PNG)
+
+
